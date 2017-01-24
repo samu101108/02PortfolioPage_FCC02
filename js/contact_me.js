@@ -22,6 +22,7 @@ $(function() {
             }
             $.ajax({
                 url: "http://samuel.net46.net/toExternal/contact_me.php",
+                //url: "././mail/contact_me.php",
                 // samuel.net46.net/toExternal/contact_me.php
                 type: "POST",
                 data: {
