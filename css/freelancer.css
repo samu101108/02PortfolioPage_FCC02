@@ -42,7 +42,7 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f06e";
+  /*content: "\f06e";*/
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
@@ -510,6 +510,7 @@ hr.style {
     border-color: #8c8b8b;
     border-width: 1px 0 0 0;
     border-radius: 20px;
+
 }
 
 hr.style:before {
